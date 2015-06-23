@@ -23,5 +23,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec"
 
   spec.add_dependency 'thor'
-  spec.add_dependency 'rb-blink1'
+  spec.add_dependency 'rb-blink1', '~> 0.0.7'
 end
