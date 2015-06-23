@@ -1,6 +1,8 @@
 # Blinker
 
-TODO: Write a gem description
+blinker: simple timer with blink(1)
+
+[![Build Status](https://travis-ci.org/Kakakakakku/blinker.svg)](https://travis-ci.org/Kakakakakku/blinker)
 
 ## Installation
 
@@ -24,7 +26,7 @@ TODO: Write usage instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/blinker/fork )
+1. Fork it ( https://github.com/Kakakakakku/blinker/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
