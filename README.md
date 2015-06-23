@@ -3,6 +3,7 @@
 blinker: simple timer with blink(1)
 
 [![Build Status](https://travis-ci.org/Kakakakakku/blinker.svg)](https://travis-ci.org/Kakakakakku/blinker)
+[![Code Climate](https://codeclimate.com/github/Kakakakakku/blinker/badges/gpa.svg)](https://codeclimate.com/github/Kakakakakku/blinker)
 
 ## Installation
 
