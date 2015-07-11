@@ -24,7 +24,26 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Use `blinker start` command.
+
+First argument is total minutes.
+Second argument is last minutes.
+
+    $ blinker start 5 1
+
+## Image
+
+### Let's start presentation!
+
+![green.jpg](./documents/image/green.jpg)
+
+### Last spurt!
+
+![yello.jpg](./documents/image/yello.jpg)
+
+### Last 10 minutes!
+
+![red.jpg](./documents/image/red.jpg)
 
 ## Contributing
 
