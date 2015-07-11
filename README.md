@@ -41,7 +41,7 @@ Second argument is last minutes.
 
 ![yello.jpg](./documents/image/yello.jpg)
 
-### Last 10 minutes!
+### Last 10 seconds!
 
 ![red.jpg](./documents/image/red.jpg)
 
