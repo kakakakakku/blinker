@@ -1,0 +1,11 @@
+Style/Documentation:
+  Enabled: false
+
+Style/EmptyLinesAroundBlockBody:
+  Enabled: false
+
+Style/EmptyLinesAroundClassBody:
+  Enabled: false
+
+Style/EmptyLinesAroundModuleBody:
+  Enabled: false
