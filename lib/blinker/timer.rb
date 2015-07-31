@@ -1,6 +1,7 @@
 require 'blink1'
 
 module Blinker
+
   class Timer
 
     GREEN = [0, 255, 0].freeze
@@ -31,7 +32,7 @@ module Blinker
 
     def last_spurt
       @blink1.fade_to_rgb(300, *YELLOW)
-      sleep (@spurt_sec - COUNTDOWN_SECONDS)
+      sleep @spurt_sec - COUNTDOWN_SECONDS
     end
 
     def countdown

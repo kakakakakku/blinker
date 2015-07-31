@@ -1,4 +1,4 @@
-require "blinker/version"
+require 'blinker/version'
 
 module Blinker
   autoload :CLI, 'blinker/cli'
