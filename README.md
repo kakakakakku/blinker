@@ -3,7 +3,7 @@
 blinker: simple timer with blink(1)
 
 [![Gem Version](https://badge.fury.io/rb/blinker.svg)](http://badge.fury.io/rb/blinker)
-[![Build Status](https://travis-ci.org/Kakakakakku/blinker.svg)](https://travis-ci.org/Kakakakakku/blinker)
+[![Build Status](https://travis-ci.org/kakakakakku/blinker.svg)](https://travis-ci.org/kakakakakku/blinker)
 [![Code Climate](https://codeclimate.com/github/Kakakakakku/blinker/badges/gpa.svg)](https://codeclimate.com/github/Kakakakakku/blinker)
 
 ## Installation
