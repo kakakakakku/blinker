@@ -4,3 +4,4 @@ rvm:
 before_install:
   - sudo apt-get install -qq gcc-avr avr-libc
   - sudo apt-get install -qq libusb-1.0-0-dev
+  - gem update bundler
